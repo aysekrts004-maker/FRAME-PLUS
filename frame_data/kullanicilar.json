@@ -1,0 +1,24 @@
+[
+    {
+        "ad": "Ayşe karataş",
+        "email": "ayse@gmail.com",
+        "telefon": "05551234567",
+        "sifre": "$2y$10$uZSgHWWczQ7fDzyjWWAEgupOiz6niTlvQ631j6fFfFcPJL9ZqrKAW",
+        "favoriler": [
+            "icerik-3",
+            "icerik-10"
+        ]
+    },
+    {
+        "name": "ayşe karataş",
+        "email": "aysee@gmail.com",
+        "phone": "05443456789",
+        "password": "$2y$10$8DxM.xK9V6F6zAdEbmOSSOzTC82cCTBmarvg87rORDKZRqv.31PEO",
+        "favorites": [
+            "content-12",
+            "content-7",
+            "content-18",
+            "content-3"
+        ]
+    }
+]
